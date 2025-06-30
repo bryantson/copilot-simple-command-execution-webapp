@@ -2,6 +2,9 @@
 
 ![Javascript Cover page](images/javascript_cover.jpeg)
 
+This tutorial was made for my Udemy course titled [**GitHub Copilot - The Complete Guide learning from an expert**
+](https://www.udemy.com/course/draft/6134731/?referralCode=D40712FA3268AEE04F56). Please enroll for a full learning experience.
+
 This shows a simple GitHub Copilot tutorial for building a simple web application using Node.js and Express. 
 
 This is a simple NodeJS application that executes shell commands in a browser using **Github Copilot**. Please follow instructions below to build and run the application. This demo will primarily drive using **Github Copilot Chat** to build the application. It is possible to use other Interative Development Editor (IDEs) that support GitHub Copilot and GitHub Copilot Chat, but it is easier to follow and better experience to use VS Code.
